@@ -105,11 +105,12 @@ Logistic Regression, Naive Bayes, and K-Nearest Neighbors (KNN).
 
 ### 🔹 Logistic Regression
 
-Logistic Regression Accuracy: 
-              precision    recall  f1-score   support
+Logistic Regression Metrics
+Report: 
+               precision    recall  f1-score   support
 
-       False       0.93      0.98      0.95       268
-        True       0.65      0.35      0.46        31
+      False       0.93      0.98      0.95       268
+      True        0.65      0.35      0.46        31
 
     accuracy                           0.91       299
    macro avg       0.79      0.67      0.71       299
