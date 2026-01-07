@@ -107,39 +107,38 @@ Logistic Regression, Naive Bayes, and K-Nearest Neighbors (KNN).
 
 Logistic Regression Metrics
 Report: 
-               precision    recall  f1-score   support
 
-      False       0.93      0.98      0.95       268
-      True        0.65      0.35      0.46        31
-
-    accuracy                           0.91       299
-   macro avg       0.79      0.67      0.71       299
-weighted avg       0.90      0.91      0.90       299
+                 precision    recall  f1-score   support
+      False         0.93      0.98      0.95       268
+      True          0.65      0.35      0.46        31
+    accuracy                            0.91       299
+    macro avg       0.79      0.67      0.71       299
+    weighted avg    0.90      0.91      0.90       299
 
 ---
 
 ### 🔹 Naive Bayes
 
-Naive Bayes Report
-              precision    recall  f1-score   support
-
-       False       1.00      0.86      0.92       268
-        True       0.44      0.97      0.61        31
-
+Naive Bayes 
+Report:
+              
+                 precision    recall  f1-score   support
+      False        1.00      0.86      0.92       268
+      True         0.44      0.97      0.61        31
     accuracy                           0.87       299
-   macro avg       0.72      0.91      0.76       299
-weighted avg       0.94      0.87      0.89       299
+    macro avg      0.72      0.91      0.76       299
+    weighted avg   0.94      0.87      0.89       299
 
 ---
 
 ### 🔹 K-Nearest Neighbors (KNN)
 
-KNN Report
-              precision    recall  f1-score   support
+KNN 
+Report:
 
+                precision    recall  f1-score   support
        False       0.95      1.00      0.97       268
         True       0.94      0.55      0.69        31
-
     accuracy                           0.95       299
-   macro avg       0.95      0.77      0.83       299
-weighted avg       0.95      0.95      0.94       299
+    macro avg      0.95      0.77      0.83       299
+    weighted avg   0.95      0.95      0.94       299
